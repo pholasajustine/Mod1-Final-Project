@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Welcome to the Module 1 Final Project!
-In this project you will use your knowledge to build a novel dataset!    
+In this project you will use the knowledge and technical skills you have developed in this module to build a novel dataset!    
 
 ## Content
 - [Project Description](#project-description)
