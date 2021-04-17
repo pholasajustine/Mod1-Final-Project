@@ -82,4 +82,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 
 [Repository](https://github.com/pholasajustine/Mod1-Final-Project)  
 [Slides](https://docs.google.com/presentation/d/151umEnxkN4pUgYlBmjw4UYkjlgmqhibjkL5wTXPQroQ/edit?usp=sharing)  
-[Trello](https://trello.com/b/pmL3ZYvv/module-1-lien-covid-19-nombre-doffres-en-alternance)  
+[Trello](https://trello.com/invite/b/pmL3ZYvv/57993ca5fd860e702570ef2620ae0712/module-1-lien-covid-19-nombre-doffres-en-alternance)  
